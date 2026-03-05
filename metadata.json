@@ -1,0 +1,5 @@
+{
+  "name": "Remix: Homigo CRM",
+  "description": "Internal CRM for Homigo rental property marketplace, featuring property management, tenant tracking, and maintenance workflows.",
+  "requestFramePermissions": []
+}
